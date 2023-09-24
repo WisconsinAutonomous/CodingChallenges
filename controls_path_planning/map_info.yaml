@@ -1,0 +1,57 @@
+start: START
+start_coord:
+  e_coord: 50
+  n_coord: 26
+maximum_range: 50
+risk_zones_path: 'risk_zones.npy'
+
+destinations:
+  - site_id: 0
+    name: Flamboyance
+    e_coord: 55
+    n_coord: 10
+
+  - site_id: 1
+    name: Knot
+    e_coord: 0
+    n_coord: 26
+
+  - site_id: 2
+    name: Chatter
+    e_coord: 40
+    n_coord: 20
+
+  - site_id: 3
+    name: Deceit
+    e_coord: 13
+    n_coord: 23
+
+  - site_id: 4
+    name: Conclave
+    e_coord: 24
+    n_coord: 20
+
+  - site_id: 5
+    name: Mewing
+    e_coord: 38
+    n_coord: 30
+
+  - site_id: 6
+    name: Coronation
+    e_coord: 7
+    n_coord: 15
+
+  - site_id: 7
+    name: Bevy
+    e_coord: 29
+    n_coord: 15
+
+  - site_id: 8
+    name: Wisdom
+    e_coord: 12
+    n_coord: 0
+
+  - site_id: 9
+    name: Flotilla
+    e_coord: 29
+    n_coord: 12

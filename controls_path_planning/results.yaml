@@ -1,0 +1,74 @@
+Bevy:
+  errors:
+  - Not all path elements are integers
+  - Path enters keep out zone
+  - Path steps do not fall on an 8 connected grid
+  length: 23.706539182259398
+  risk: 5.0
+  valid: false
+Chatter:
+  errors:
+  - Not all path elements are integers
+  - Path steps do not fall on an 8 connected grid
+  length: 11.6619037896906
+  risk: 5.0
+  valid: false
+Conclave:
+  errors:
+  - Not all path elements are integers
+  - Path enters keep out zone
+  - Path steps do not fall on an 8 connected grid
+  length: 26.68332812825267
+  risk: 5.0
+  valid: false
+Coronation:
+  errors:
+  - Not all path elements are integers
+  - Path enters keep out zone
+  - Path steps do not fall on an 8 connected grid
+  length: 44.384682042344295
+  risk: 4.0
+  valid: false
+Deceit:
+  errors:
+  - Not all path elements are integers
+  - Path enters keep out zone
+  - Path steps do not fall on an 8 connected grid
+  length: 37.12142238654118
+  risk: 5.0
+  valid: false
+Flamboyance:
+  errors:
+  - Not all path elements are integers
+  - Path steps do not fall on an 8 connected grid
+  length: 16.76305461424021
+  risk: 0.0
+  valid: false
+Flotilla:
+  errors:
+  - Not all path elements are integers
+  - Path steps do not fall on an 8 connected grid
+  length: 25.238858928247925
+  risk: 7.0
+  valid: false
+Knot:
+  errors:
+  - Not all path elements are integers
+  - Path steps do not fall on an 8 connected grid
+  length: 50.0
+  risk: 4.0
+  valid: false
+Mewing:
+  errors:
+  - Not all path elements are integers
+  - Path steps do not fall on an 8 connected grid
+  length: 12.649110640673518
+  risk: 4.0
+  valid: false
+Wisdom:
+  errors:
+  - Not all path elements are integers
+  - Path steps do not fall on an 8 connected grid
+  length: 46.04345773288535
+  risk: 5.0
+  valid: false
