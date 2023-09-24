@@ -1,7 +1,6 @@
 # Risk Aware Planning
 
-This problem is designed to give us an idea of how you think and program. It is adapted from a take-home 
-assessment given by a company in the autonomous systems industry, and represents a realistic (albeit simplified) 
+This problem is designed to give us an idea of how you think and program. It represents a realistic (albeit simplified) 
 version of one part of the tasks our team has to achieve. Through this project you'll get a small taste of what working 
 on these problems would be like, and we will get a chance to see what you're capable of.
 
