@@ -4,7 +4,7 @@ This is one of two options for this year's controls coding challenge. It goes ov
 own PID controller. PID controllers are one of the most common types of control systems, and are used in a variety of industries and applications – including our 
 own car!
 
-Before you begin, we recommend that you are familiar with basic coding (conditionals, loops, functions, classes), Git, and Jupyter notebooks.
+Before you begin, we recommend that you are familiar with basic coding (conditionals, loops, functions, classes). 
 ---
 The PID challenge is run using Jupyter notebooks. You can access & run it either locally on your computer (provided you have python and jupyter installed), or on Google Colab. You shouldn't need Google Colab for this assignment, and it may be easier to open it locally instead of trying to load the repository in Colab, but you can do so if you prefer.
 
