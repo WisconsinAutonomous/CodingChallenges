@@ -33,7 +33,7 @@ Your job is to make a path planning algorithm that generates paths from the star
     - Length of path __must__ be less than specified maximum in map_info.maximum_range
     - Paths _should_ minimize the accumulated risk. Accumulated risk is calculated as the total number of risk pixels that path steps end in
 4. Once you have written your code, test it with `python3 test_planner.py` again
-5. In addition to your source code, please submit an informal description of your algorithm, your thought process behind developing it (why this approach & why not others, etc), a copy of `results_fig.png` with your paths, a copy of `results.yaml`, as well as any other graphics or information that you think will help us understand whats going on with your algorithm!
+5. In addition to your source code, please submit an informal description of your algorithm, your thought process behind developing it, a copy of `results_fig.png` with your paths, a copy of `results.yaml`, as well as any other graphics or information that you think will help us understand whats going on with your algorithm!
 
 
 #### Notes:
