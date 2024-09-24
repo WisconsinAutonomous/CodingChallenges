@@ -1,6 +1,6 @@
 # Wisconsin Autonomous ROS Coding Challenge
 
-This coding challenge is designed for us to evaluate what you can bring to the table and an opportunity for you to get some hands on experience with the tools we use in the team. We use ROS2 Humble as our middleware for our modular system to communicate with each other. A good understanding of ROS is vital for our success. While we understand that this might be your first time using ROS, this challenge also aims for us to see how you can learn on the fly, which is an important aspect of being part of this team.  
+This coding challenge is designed for us to evaluate what you can bring to the table and an opportunity for you to get some hands on experience with the tools we use on the controls and infrastructure sub-teams. We use ROS2 Humble as our middleware for our modular system to communicate with each other. A good understanding of ROS is vital for our success. While we understand that this might be your first time using ROS, this challenge also aims for us to see how you can learn on the fly, which is an important aspect of being part of this team.  
 
 ## Challenge Descrpiption
 
@@ -31,7 +31,7 @@ Example: given `[1 4 8 12 26]` and `[3 9 18 20 30]`, you node should publish `[1
 ## Tips
 
 1. You are allowed to use any resources available to you. Google is your friend!
-2. [ROS2 Humble documentation](https://docs.ros.org/en/foxy/Releases/Release-Humble-Hawksbill.html) is a great place to start if you are new to ROS. This [page](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Cpp-Publisher-And-Subscriber.html) walks you throug how to create a publisher and subscriber node in c++, this [page](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html) for python
+2. [ROS2 Humble documentation](https://docs.ros.org/en/foxy/Releases/Release-Humble-Hawksbill.html) is a great place to start if you are new to ROS. This [page](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Cpp-Publisher-And-Subscriber.html) walks you through how to create a publisher and subscriber node in c++, and this [page](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html) in python.
 3. Ubuntu 22.04 is required for ROS2 Humble. You will need to set up dual boot, or use Docker, or WSL. We use Ubuntu 22.04 for all our code so might be a good idea to start getting familiar with it.
-4. The learning curve can be steep here! We don't want you to get stuck! Feel free to ask questions in slack.
+4. The learning curve can be steep here! We don't want you to get stuck! Feel free to send high-level questions to wisconsinautonomous@studentorg.wisc.edu.
 
