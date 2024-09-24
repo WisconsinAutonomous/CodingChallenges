@@ -24,5 +24,6 @@ Original Image            |  sample answer.png
 
 ## Tips
 1. You are allowed to use any resources available to you. Google is your friend!
-2. Document as much as you can. We are looking for team members who are good communicators :)
-3. The learning curve can be steep here! We don't want you to get stuck! Feel free to email wisconsinautonomous@studentorg.wisc.edu if you have high-level questions!
+2. Some OpenCV tutorials can be found here: https://docs.opencv.org/4.x/d9/df8/tutorial_root.html 
+3. Document as much as you can. We are looking for team members who are good communicators :)
+4. The learning curve can be steep here! We don't want you to get stuck! Feel free to email wisconsinautonomous@studentorg.wisc.edu if you have high-level questions!
