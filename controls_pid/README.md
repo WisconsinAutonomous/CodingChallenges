@@ -1,5 +1,5 @@
 ## PID Coding Challenge
-This is one of two options for this year's controls coding challenge. It goes over the basics of PID (Proportional – Integral – Derivative) control and includes a short coding challenge to write your
+This is the first of two options for this year's controls coding challenge. It goes over the basics of PID (Proportional – Integral – Derivative) control and includes a short coding challenge to write your
 own PID controller. PID controllers are one of the most common types of control systems, and are used in a variety of industries and applications – including our 
 own car!
 
