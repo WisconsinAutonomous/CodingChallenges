@@ -17,3 +17,6 @@ the bleeding edge. Don't overthink it, though – we don't expect a perfect sol
 1. Start by reading through the challenge description and background in `PIDChallenge.ipynb`. 
 2. You are allowed to use any resources available to you. Google is your friend!
 3. Document as much as you can. We are looking for team members who are good communicators :)
+
+## Questions or Conncerns:
+- Contact kasha2@wisc.edu
