@@ -27,4 +27,4 @@ Original Image            |  sample answer.png
 2. Some OpenCV tutorials can be found here: https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
 3. Search and learn about image thresholding and clustering
 4. Document as much as you can. We are looking for team members who are good communicators :)
-5. The learning curve can be steep here! We don't want you to get stuck! Feel free to email sdabbara@wisc.edu if you have high-level questions!
+5. The learning curve can be steep here! We don't want you to get stuck! Feel free to email sdabbara@wisc.edu if you have high-level questions! Please put "[WA]" in the subject or your question may be ignored!
