@@ -49,3 +49,6 @@ Your job is to make a path planning algorithm that generates paths from the star
 - Simple is better than complex
 - Readability Counts
 - Practicality and pragmatic problem solving trump perfection
+
+  # Questions or Issues:
+  - Contact kasha2@wisc.edu
