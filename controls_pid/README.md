@@ -14,5 +14,6 @@ to develop our own algorithms, as the autonomous vehicle space is constantly cha
 the bleeding edge. Don't overthink it, though – we don't expect a perfect solution! 
 
 ## Tips
-1. You are allowed to use any resources available to you. Google is your friend!
-2. Document as much as you can. We are looking for team members who are good communicators :)
+1. Start by reading through the challenge description and background in `PIDChallenge.ipynb`. 
+2. You are allowed to use any resources available to you. Google is your friend!
+3. Document as much as you can. We are looking for team members who are good communicators :)
