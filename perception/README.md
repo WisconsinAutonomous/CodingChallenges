@@ -1,6 +1,6 @@
 # Wisconsin Autonomous Perception Coding Challenge
 
-This coding challenge is designed for us to evaluate what you can bring to the table and an opportunity for you to get some hands on experience with the tools we use in the team. Our perception software uses OpenCV for much of our image processing. A good understanding of image processing techniques and OpenCV is important for our success. This challenge aims to evaluate your problem-solving approach to computer vision problems. 
+This coding challenge is designed to evaluate what you can bring to the table and an opportunity for you to get some hands on experience with the tools we use on the perception team! Our perception software uses OpenCV for much of our image processing. A good understanding of image processing techniques and OpenCV is important for our success. This challenge aims to evaluate your problem-solving approach to computer vision problems.
 
 
 ## Challenge Description
@@ -24,5 +24,5 @@ Original Image            |  sample answer.png
 
 ## Tips
 1. You are allowed to use any resources available to you. Google is your friend!
-3. Document as much as you can. We are looking for team members who are good communicators :)
-4. The learning curve can be steep here! We don't want you to get stuck! Feel free to message in slack if you have questions.
+2. Document as much as you can. We are looking for team members who are good communicators :)
+3. The learning curve can be steep here! We don't want you to get stuck! Feel free to email wisconsinautonomous@studentorg.wisc.edu if you have high-level questions!
